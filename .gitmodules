@@ -1,0 +1,9 @@
+[submodule "1"]
+	path = 1
+	url = https://github.com/Pieratboi/osticket-prereqs.git
+[submodule "2"]
+	path = 2
+	url = https://github.com/Pieratboi/post-install-config.git
+[submodule "3"]
+	path = 3
+	url = https://github.com/Pieratboi/ticket-lifecycle.git
